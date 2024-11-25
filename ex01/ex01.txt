@@ -1,0 +1,1 @@
+I am Disara. Disara is my name. This is a random text. This text file will be used to count the number of words in this, to demonstrate how Hadoop can be used to show wordcount in a text file.
