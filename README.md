@@ -34,10 +34,10 @@ ex01.txt:
 
 4.	Task 3: Run the MapReduce job and got the wordcount:
  ![image](https://github.com/user-attachments/assets/8010d3ef-7db2-4f48-afc0-811e21fb25a7)
-![image](https://github.com/user-attachments/assets/a2fb4605-fc1c-4e22-acdf-c76b96ae8ba7)
+
 
  
 
 5.	Task 4: Analyzed and cleaned up:
- ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a2fb4605-fc1c-4e22-acdf-c76b96ae8ba7)
 
